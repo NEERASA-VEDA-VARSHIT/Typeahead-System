@@ -337,5 +337,6 @@ frontend/
 - **Flush failure** ? re-buffer entries for next attempt
 - **Decay failure** ? logged, no crash
 - **Request validation** ? Zod middleware for all routes
-#   T y p e a h e a d - S y s t e m  
+#   T y p e a h e a d - S y s t e m 
+ 
  
